@@ -1,0 +1,8 @@
+---
+title: "Publications"
+format: 
+  html: 
+    theme: default
+---
+
+This will hold the publications and links to my publications
