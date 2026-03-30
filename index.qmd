@@ -1,11 +1,22 @@
 ---
-title: "jcoenen30.github.io"
+title: "J. Coenen"
+image: IMG_3161.JPG
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:coenenj89@gmail.com
+    - text: Research Gate
+      icon: journal-text
+      href: https://www.researchgate.net/profile/Jason-Coenen
+    - text: Google Scholar
+      icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=8Dmq4I4AAAAJ
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
