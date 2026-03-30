@@ -3,17 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "jcoenen30.github.io"
+  title: "Jason Coenen"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true
