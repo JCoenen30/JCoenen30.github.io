@@ -46,6 +46,6 @@ My research has contributed to our understanding of:
 
 -   Developed an offshore reference section to build towards a more robust framework for correlating and dating the significant but fragmentary vertebrate-bearing sequences of the coastal Eastern Pisco Basin Stratigraphic sequences.
 
-::: {.callout-note}
+::: callout-note
 I am always interested in collaborating on projects involving marine diatoms, paleoceanography, and subglacial access studies. My work combines traditional microscopy with modern analytical techniques to unlock the secrets preserved in Earth's geological record.
 :::
