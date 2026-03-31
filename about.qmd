@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-# Research Focus
+## Research Focus
 
 I am a National Science Foundation-Ocean Sciences Division Postdoctoral Research Fellow at the University of Nebraska-Lincoln, specializing in marine diatom biostratigraphy and paleoceanography. My research combines micropaleontological analysis with field studies to understand Earth's past climate and oceanographic changes.
 
-# Current Projects
+## Current Projects
 
 -   Investigating marine diatom and silicoflagellate responses to the Cretaceous-Paleogene extinction event
 
@@ -16,7 +16,7 @@ I am a National Science Foundation-Ocean Sciences Division Postdoctoral Research
 
 -   Contributing to the SWAIS2C project examining West Antarctic Ice Sheet stability
 
-# Field Experience
+## Field Experience
 
 My research has taken me from Antarctic ice streams to ocean drilling expeditions. Recent field work includes:
 
@@ -28,11 +28,11 @@ My research has taken me from Antarctic ice streams to ocean drilling expedition
 
 -   Whillans Ice Stream Subglacial Access Research Drilling (WISSARD) project: Diatom specialist and core handler for this project.
 
-# Teaching and Mentorship
+## Teaching and Mentorship
 
 I am committed to education and mentorship in the geosciences, having taught courses in oceanography, physical geology, environmental geology, and earth history. I have mentored multiple undergraduate researchers in micropaleontological techniques and field studies. Student researchers have presented their results at conferences such as GSA.
 
-# Professional Impact
+## Professional Impact
 
 My research has contributed to our understanding of:
 
