@@ -1,8 +1,81 @@
 ---
 title: "Publications"
+bibliography: references.bib
 format: 
   html: 
     theme: default
 ---
 
 This will hold the publications and links to my publications
+
+## Peer-reviewed publications
+
+### 2026
+
+Figus, C., Torricella, F., Pellegrino, L., Renaudie, J., [Coenen, J.,]{.underline} Gariboldi, K., Witkowski, J., and Hernandez-Almeida, I., 2026. Siliceous microfossils and climate: A feedback story. *PAGES Science Highlights: Time is Everything.* Doi.org/10.22498/pages.34.1.96
+
+[Coenen J. J.,]{.underline} Dodd, J., Jimenez-Espejo, F.,  McClymont, E., Robinson, R., Tangunan, D., Berke, M. A., Gruetzner, J., Ruiz-Marin, E., Hall, I. R., Hemming, S. R., LeVay, L. J., and the Expedition 361 Science Party, (in revision). Controls on diatom deposition during the Mid-Pleistocene Transition in the Southern Cape Basin. *Paleoceanography and paleoclimatology*.
+
+Barron, J. A., DeVries, T. J., and [Coenen, J. J.]{.underline}, 2026. Miocene Evolution of the Humboldt Current. *Palaeo3 special volume “From Land to Oceans: South American Climate Variability from the Miocene to Holocene”.*
+
+### 2025
+
+[Coenen, J.,]{.underline} Barron, J., and DeVries, T., 2025. Uppermost Oligocene and Miocene diatom biostratigraphy of ODP Sites 682 and 688 from the Peru Margin. *Stratigraphy*.
+
+### 2024
+
+Tangunan, D., Flores, J.A., LeVay, L.J., Jimenez-Espejo, F.J., [Coenen, J.J.,]{.underline} Berke, M.A., De Azevedo, A., Fuertes, M.A., Gruetzner, J., Starr, A. and Hall, I.R., 2024. Southern Ocean and southern African monsoon forcing of the subtropical Indian Ocean early Pliocene ‘Biogenic Bloom’. *Paleoceanography and Paleoclimatology*.
+
+Calkin, T., Dunbar, G.B., Atkins, C., Carter, A., [Coenen, J.J.,]{.underline} Eaves, S., Ginnane, C.E., Golledge, N.R., Harwood, D.M., Horgan, H.J., and Hurwitz, B.C., 2024. Recent sedimentology at the grounding zone of the Kamb Ice stream, West Antarctica and implications for ice shelf extent. *Quaternary Science Reviews*, *344*, p.108988.
+
+Goliber, S., [Coenen, J.,]{.underline} Fair, H., Szesciorka, A.R., Schulz, K., Harning, D.J., Fernando, B., Ksenofontov, S.S., Pacini, A., Rivera, M.J., and Calmer, R., 2024. Postdoc perspectives on leadership and matters of equity and inclusion in polar science. *Perspectives of Earth and Space Scientists*, *5*(1), p.e2024CN000252.
+
+### 2023
+
+Uenzelmann-Neben, G., Bohaty, S.M., Childress, L.B., Archontikis, O.A., Batenburg, S.J., Bijl, P.K., Burkett, A.M., Cawthra, H.C., Chanda, P., [Coenen, J.J.,]{.underline} and Dallanave, E., 2023. Expedition 392 methods.
+
+### 2022
+
+Peterson, J.E., Warnock, J.P., [Coenen, J.J.,]{.underline} Bills, C.A. and Denoto, M.E., 2022. A review of Charophytes of the Cleveland-Lloyd Dinosaur Quarry at Jurassic National Monument in the Upper Part of the Morrison Formation (Late Jurassic), Emery County, Utah, USA: *Geology of the Intermountain West v.9, p. 39-47, <https://doi.org/10.31711/giw.v9.pp39-47>* .
+
+### 2021
+
+Neuhaus, S.U., Tulaczyk, S.M., Stansell, N.D., [Coenen, J.J.]{.underline}, Scherer, R.P., Mikucki, J.A. and Powell, R.D., 2021. Did Holocene climate changes drive West Antarctic grounding line retreat and readvance?. *The Cryosphere*, *15*(10), pp.4655-4673.
+
+Cartagena‐Sierra, A., Berke, M.A., Robinson, R.S., Marcks, B., Castañeda, I.S., Starr, A., Hall, I.R., Hemming, S.R., LeVay, L.J. and [Expedition 361 Scientific Party]{.underline}, 2021. Latitudinal Migrations of the Subtropical Front at the Agulhas Plateau Through the Mid‐Pleistocene Transition. *Paleoceanography and Paleoclimatology*, *36*(7), p.e2020PA004084.
+
+Tangunan, D.N., Berke, M.A., Cartagena-Sierra, A., Flores, J.A., Gruetzner, J., Jimenez-Espejo, F., LeVay, L.J., Baumann, K.-H., Romero, O., Saavedra-Pellitero, M., [Coenen, J.J.,]{.underline} Starr, A., Hemming, S.R., Hall, I.R., and [Expedition 361 Scientists.,]{.underline} 2021. Strong glacial-interglacial variability in upper ocean hydrodynamics, biogeochemistry, and productivity in the southern Indian Ocean. *Communications Earth and Environment*. Accepted 3/05/2021.
+
+Starr, A., Hall, I.R., Barker, S., Rackow, T., Zhang, X., Hemming, S.R., van der Lubbe, H.J.L., Knorr, G., Berke, M.A., Bigg, G.R., Cartagena-Sierra, A., and [Expedition 361 Scientists,]{.underline} 2021. Antarctic icebergs reorganize ocean circulation during Pleistocene glacials. *Nature*, *589*(7841), pp.236-241.
+
+Taylor, A.K., Berke, M.A., Castañeda, I.S., Koutsodendris, A., Campos, H., Hall, I.R., Hemming, S.R., LeVay, L.J., Sierra, A.C., O'Connor, K., and [Expedition 361 Scientists,]{.underline} 2021, Plio‐Pleistocene Continental Hydroclimate and Indian Ocean Sea Surface Temperatures at the Southeast African Margin. *Paleoceanography and Paleoclimatology*, p.e2020PA004186.
+
+Koutsodendris, A., Nakajima, K., Kaboth-Bahr, S., Berke, M.A., Franzese, A.M., Hall, I.R., Hemming, S.R., Just, J., LeVay, L.J., Pross, J., Robinson, R., and [Expedition 361 Scientists,]{.underline} 2021. A Plio-Pleistocene (c. 0–4 Ma) cyclostratigraphy for IODP Site U1478 (Mozambique Channel, SW Indian Ocean): Exploring an offshore record of paleoclimate and ecosystem variability in SE Africa. *Newsletters on Stratigraphy*, pp.159-181.
+
+### 2020
+
+Stansell, N.D., Steinman, B.A., Lachniet, M.S., Feller, J., Harvey, W., Fernandez, A., Shea, C.J., Price, B., [Coenen, J.,]{.underline} Boes, M. and Perdziola, S., 2020. A lake sediment stable isotope record of late-middle to late Holocene hydroclimate variability in the western Guatemala highlands. *Earth and Planetary Science Letters*, *542*, p.116327.
+
+[Coenen, J. J.,]{.underline} Scherer, R., Warny, S., Baudoin, P., Castañeda, I., and Askin, R., 2019.  Paleogene terrestrial and marine development of the West Antarctic rift system. *Geophysical Research Letters.*
+
+### 2019
+
+Gruetzner, J., Jiménez Espejo, F.J., Lathika, N., Uenzelmann‐Neben, G., Hall, I.R., Hemming, S.R., LeVay, L.J. and [Expedition 361 Scientists]{.underline}**,** 2019. A new seismic stratigraphy in the Indian‐Atlantic Ocean gateway resembles major paleo‐oceanographic changes of the last 7 m.y. *Geochemistry, Geophysics, Geosystems*, 20(1), 339-358.
+
+### 2018 
+
+Kingslake, J., Scherer, R.P., Albrecht, T., [Coenen, J.,]{.underline} Powell, R.D., Reese, R., Stansell, N.D., Tulaczyk, S., Wearing, M.G. and Whitehouse, P.L., 2018. Extensive retreat and re-advance of the West Antarctic Ice Sheet during the Holocene. *Nature*.
+
+Tangunan, D.N., Baumann, K.H., Just, J., LeVay, L.J., Barker, S., Brentegani, L., De Vleeschouwer, D., Hall, I.R., Hemming, S., Norris, R. and [Expedition 361 Scientists]{.underline}, 2018. The last 1 million years of the extinct genus Discoaster: Plio–Pleistocene environment and productivity at Site U1476 (Mozambique Channel). *Palaeogeography, Palaeoclimatology, Palaeoecology*, *505*, pp.187-197.
+
+### 2017
+
+Hall, I. , Hemming, S. , LeVay, L. , Barker, S. , Berke, M. , Brentegani, L. , Caley, T. , Cartagena-Sierra, A. , Charles, C. , [Coenen, J.]{.underline} , Crespin, J. , Franzese, A. , Gruetzner, J. , Han, X. , Hines, S. , Jimenez Espejo, F. , Just, J. , Koutsodendris, A., Kubota, K. , Lathika, N. , Norris, R. , Periera dos Santos, T. , Robinson, R. , Rolinson, J. , Simon, M. , Tangunan, D. , van der Lubbe, J. , Yamane, M. and Zhang, H. (2017): Expedition 361 summary / I. Hall , S. Hemming , L. LeVay and t. Expedition 361 Scientists (editors) , In: South African Climates (Agulhas LGM Density Profile), Proceedings of the International Ocean Discovery Program, 361, College Station, TX, International Ocean Discovery Program. doi:10.14379/iodp.proc.361.101.2017
+
+### 2016
+
+Mikucki, J. A., Lee, P. A., Ghosh, D., Purcell, A. M., Mitchell, A. C., Mankoff, K. D., Fisher, A. T., Hodson, T., [Coenen, J.]{.underline}, Powell, R., Scherer, R., Vick-Majors, T., Achberger, A. A., Christner, B. C., Tranter, M., the WISSARD Science Team, 2016, Subglacial Lake Whillans microbial biogeochemistry: a synthesis of current knowledge: *Philosophical Transactions of the Royal Society A,* 374(2059), p.20140290.
+
+### 2014
+
+Peterson, J. E., [Coenen, J. J.,]{.underline} and Noto, C. R., 2014, Fluvial transport potential of shed and root-bearing dinosaur teeth from the late Jurassic Morrison Formation: *PeerJ, 2 e347.*
