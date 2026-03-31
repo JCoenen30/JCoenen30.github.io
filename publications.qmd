@@ -6,7 +6,52 @@ format:
     theme: default
 ---
 
-This will hold the publications and links to my publications
+## Featured publications
+
+::: {.callout-note appearance="simple" icon=false}
+<columns>
+<column width="70%">
+**Coenen, J.,** Barron, J., and DeVries, T. (2025). Uppermost Oligocene and Miocene diatom biostratigraphy of ODP Sites 682 and 688 from the Peru Margin. *Stratigraphy*.
+
+[Journal](Stratigraphy) · [DOI](http://dx.doi.org/10.29041/strat.22.3.01) · 
+[Request PDF](mailto:coenenj89@gmail.com?subject=PDF%20request%3A%20Uppermost%20Oligocene%20and%20Miocene%20diatom%20biostratigraphy&body=Hi%20Jason%2C%0A%0ACould%20you%20share%20a%20PDF%20of%20your%202025%20Stratigraphy%20paper%3F%0A%0AName%3A%0AAffiliation%3A%0AReason%3A%0A%0AThanks!)
+</column>
+
+<column width="30%">
+![Key figure](images/pubs/Coenenetal2025.png)
+</column>
+</columns>
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+<columns>
+<column width="70%">
+**Coenen, J. J.,** Scherer, R., Warny, S., Baudoin, P., Castañeda, I., and Askin, R. (2019). Paleogene terrestrial and marine development of the West Antarctic rift system. *Geophysical Research Letters*.
+
+[Journal](Geophysical Research Letters) · [DOI](https://doi.org/10.1029/2019GL085281) · 
+[Request PDF](mailto:coenenj89@gmail.com?subject=PDF%20request%3A%20Uppermost%20Oligocene%20and%20Miocene%20diatom%20biostratigraphy&body=Hi%20Jason%2C%0A%0ACould%20you%20share%20a%20PDF%20of%20your%202025%20Stratigraphy%20paper%3F%0A%0AName%3A%0AAffiliation%3A%0AReason%3A%0A%0AThanks!)
+</column>
+
+<column width="30%">
+![Key figure](images/pubs/Coenenetal2020.jpg)
+</column>
+</columns>
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+<columns>
+<column width="70%">
+Barron, J. A., DeVries, T. J., and **Coenen, J. J.** (2026). Miocene evolution of the Humboldt Current. *Palaeogeography, Palaeoclimatology, Palaeoecology*, p.113558.
+
+[Journal](Palaeogeography, Palaeoclimatology, Palaeoecology) · [DOI](https://doi.org/10.1016/j.palaeo.2026.113558) · [Request PDF](mailto:coenenj89@gmail.com?subject=PDF%20request%3A%20Uppermost%20Oligocene%20and%20Miocene%20diatom%20biostratigraphy&body=Hi%20Jason%2C%0A%0ACould%20you%20share%20a%20PDF%20of%20your%202025%20Stratigraphy%20paper%3F%0A%0AName%3A%0AAffiliation%3A%0AReason%3A%0A%0AThanks!)
+</column>
+
+<column width="30%">
+![Key figure](images/pubs/Barronetal2026.png)
+</column>
+</columns>
+:::
+
 
 ## Peer-reviewed publications
 
