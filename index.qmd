@@ -1,6 +1,6 @@
 ---
 title: "Hello, I'm Jason Coenen"
-image: IMG_3161.JPG
+image: 231202_VMeduna_Jason-Coenen_KIS3-camp_freezer.JPG
 about: 
   template: jolla
   image-shape: round
