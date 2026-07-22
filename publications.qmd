@@ -9,13 +9,13 @@ format:
 
 :::::: {.callout-note appearance="simple" icon="false"}
 ::::: columns
-::: {.column width="70%"}
+::: {.column width="60%"}
 **Coenen, J. J.**, Jimenez-Espejo, F., McClymont, E. L., Tangunan, D., Dodd, J., Robinson, R. S., Hall, I. R., Norris, R., Berke, M. A., LeVay, L., Ruiz-Marin, E., Scherer, R. (2026). Sea-Level and Frontal Controls on Diatom Deposition During the Mid-Pleistocene Transition, Southern Cape Basin. *Paleoceanography and Paleoclimatology*, 41, e2025PA005375.
 
 [DOI](https://doi.org/10.1029/2025PA005375) · [Request PDF](mailto:coenenj89@gmail.com?subject=PDF%20request&body=Hi%20Jason%2C%0A%0ACould%20you%20share%20a%20PDF%20of%20this%20paper%3F%0A%0AName%3A%0AAffiliation%3A%0AReason%3A%0A%0AThanks!)
 :::
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 ![](images/pubs/Coenenetal2026.jpg){fig-alt="Key figure"}
 :::
 :::::
@@ -37,13 +37,13 @@ format:
 
 :::::: {.callout-note appearance="simple" icon="false"}
 ::::: columns
-::: {.column width="70%"}
+::: {.column width="60%"}
 **Coenen, J. J.,** Scherer, R., Warny, S., Baudoin, P., Castañeda, I., and Askin, R. (2019). Paleogene terrestrial and marine development of the West Antarctic rift system. *Geophysical Research Letters*.
 
 [DOI](https://doi.org/10.1029/2019GL085281) · [Request PDF](mailto:coenenj89@gmail.com?subject=PDF%20request&body=Hi%20Jason%2C%0A%0ACould%20you%20share%20a%20PDF%20of%20this%20paper%3F%0A%0AName%3A%0AAffiliation%3A%0AReason%3A%0A%0AThanks!)
 :::
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 ![](images/pubs/Coenenetal2020.jpg){fig-alt="Key figure"}
 :::
 :::::
@@ -51,13 +51,13 @@ format:
 
 :::::: {.callout-note appearance="simple" icon="false"}
 ::::: columns
-::: {.column width="70%"}
+::: {.column width="60%"}
 Barron, J. A., DeVries, T. J., and **Coenen, J. J.** (2026). Miocene evolution of the Humboldt Current. *Palaeogeography, Palaeoclimatology, Palaeoecology*, p.113558.
 
 [DOI](https://doi.org/10.1016/j.palaeo.2026.113558) · [Request PDF](mailto:coenenj89@gmail.com?subject=PDF%20request&body=Hi%20Jason%2C%0A%0ACould%20you%20share%20a%20PDF%20of%20this%20paper%3F%0A%0AName%3A%0AAffiliation%3A%0AReason%3A%0A%0AThanks!)
 :::
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 ![](images/pubs/Barronetal2026.png){fig-alt="Key figure"}
 :::
 :::::
